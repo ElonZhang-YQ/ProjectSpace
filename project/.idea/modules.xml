@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../ez_lettor_conf/ez_lettor_conf.iml" filepath="$PROJECT_DIR$/../ez_lettor_conf/ez_lettor_conf.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ez_lettor_core/ez_lettor_core.iml" filepath="$PROJECT_DIR$/../ez_lettor_core/ez_lettor_core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ez_lettor_engine/ez_lettor_engine.iml" filepath="$PROJECT_DIR$/ez_lettor_engine/ez_lettor_engine.iml" />
     </modules>
   </component>
 </project>
