@@ -12,6 +12,11 @@ import java.util.List;
  */
 public class WelfareLettorMate<SingleData> extends AbstractLettorMate {
     
+    public WelfareLettorMate() {
+    
+        super();
+    }
+    
     public WelfareLettorMate(String id, List normalDatas, List specialDatas, LettorType lettorType, int dataType) {
         
         super(id, normalDatas, specialDatas, lettorType, dataType);

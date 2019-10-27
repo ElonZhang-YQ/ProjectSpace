@@ -1,6 +1,7 @@
 package com.ez.lettor.core.entity.datamate;
 
 import com.ez.lettor.core.entity.data.LettorId;
+import com.ez.lettor.core.entity.data.SingleData;
 import com.ez.lettor.core.entity.type.LettorType;
 
 import java.util.List;
@@ -74,4 +75,39 @@ public interface DataMate<T> extends LettorId {
      */
     boolean checkData();
     
+    /**
+     * 设置常规数
+     *
+     * @param normalDatas
+     */
+    void setNormalDatas(List<SingleData> normalDatas);
+    
+    /**
+     * 设置特殊数
+     *
+     * @param specialDatas
+     */
+    void setSpecialDatas(List<SingleData> specialDatas);
+    
+    /**
+     * 设置数组长度
+     *
+     * @param dataLength
+     */
+    void setdataLength(int dataLength);
+    
+    /**
+     * 设置当前彩票的数据类型
+     * TODO 需要声明不同的类型数组
+     *
+     * @param lettorType
+     */
+    void setLettorType(LettorType lettorType);
+    
+    /**
+     * 设置数据为某个大类彩票下面的哪个小类型
+     *
+     * @param dataType
+     */
+    void setDataType(int dataType);
 }

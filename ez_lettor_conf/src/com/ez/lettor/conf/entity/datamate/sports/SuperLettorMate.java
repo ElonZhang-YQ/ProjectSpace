@@ -14,6 +14,10 @@ import java.util.List;
  */
 public class SuperLettorMate<SingleData> extends AbstractLettorMate {
     
+    public SuperLettorMate() {
+        
+        super();
+    }
     
     public SuperLettorMate(String id, List<SingleData> normalDatas, List<SingleData> specialDatas) {
         

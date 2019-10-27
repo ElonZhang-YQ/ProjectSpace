@@ -108,4 +108,34 @@ public class AbstractLettorMate<SingleData> implements DataMate {
          */
         return false;
     }
+    
+    @Override
+    public void setdataLength(int dataLength) {
+    
+        this.dataLength = dataLength;
+    }
+    
+    @Override
+    public void setLettorType(LettorType lettorType) {
+    
+        this.lettorType = lettorType;
+    }
+    
+    @Override
+    public void setDataType(int dataType) {
+    
+        this.dataType = dataType;
+    }
+    
+    @Override
+    public void setSpecialDatas(List specialDatas) {
+    
+        this.specialDatas = specialDatas;
+    }
+    
+    @Override
+    public void setNormalDatas(List normalDatas) {
+    
+        this.normalDatas = normalDatas;
+    }
 }
