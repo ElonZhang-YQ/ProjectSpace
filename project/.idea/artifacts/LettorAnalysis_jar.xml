@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LettorAnalysis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LettorAnalysis_jar</output-path>
+    <root id="archive" name="LettorAnalysis.jar">
+      <element id="module-output" name="ez_lettor_conf" />
+      <element id="module-output" name="ez_lettor_core" />
+      <element id="module-output" name="ez_lettor_engine" />
+    </root>
+  </artifact>
+</component>
