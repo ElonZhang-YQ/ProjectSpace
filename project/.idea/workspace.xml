@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51a94603-0fbc-46b9-b8fc-66739e8ada02" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="51a94603-0fbc-46b9-b8fc-66739e8ada02" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../ez_lettor_engine/test/com/ez/lettor/engine/text/BoxingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/dao/DataMateDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/dao/DataMateDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/data/SingleDataImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/data/SingleDataImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/AbstractLettorMate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/AbstractLettorMate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/sports/SuperLettorMate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/sports/SuperLettorMate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/welfare/WelfareLettorMate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/welfare/WelfareLettorMate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/interf/DataMateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/interf/DataMateService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/data/LettorId.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/data/LettorId.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/data/SingleData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/data/SingleData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/datamate/DataMate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/datamate/DataMate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/type/LettorType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/type/LettorType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/exception/LettorException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/exception/LettorException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/exception/data/LettorInvalidateDataException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/exception/data/LettorInvalidateDataException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/conf/dao/DataMateDAOImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/conf/dao/DataMateDAOImp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/text/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/text/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/text/heapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/text/heapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ez_lettor_conf/src/com/ez/lettor/conf/entity/data/SingleDataImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ez_lettor_conf/src/com/ez/lettor/conf/entity/data/SingleDataImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ez_lettor_core/src/com/ez/lettor/core/entity/data/SingleData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ez_lettor_core/src/com/ez/lettor/core/entity/data/SingleData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ez_lettor_engine/test/com/ez/lettor/engine/text/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ez_lettor_engine/test/com/ez/lettor/engine/text/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="LettorAnalysis" />
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,6 +56,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -39,43 +69,67 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="1RqBRDJLzSQylJaP9TUYQwnqot2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.13871376" />
-    <property name="project.structure.side.proportion" value="0.29171395" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/mrwhynot/工作空间/ProjectSpace/project",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "jprofiler"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.StringTest.main">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BoxingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ez.lettor.engine.text.BoxingTest" />
+      <module name="ez_lettor_engine" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ez.lettor.engine.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ez_lettor_engine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ez.lettor.engine.text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ez.lettor.engine.text" />
+      <option name="MAIN_CLASS_NAME" value="com.ez.lettor.engine.text.StringTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,15 +141,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="TestDemo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,7 +165,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StringTest.main" />
+        <item itemvalue="Application.BoxingTest" />
+      </list>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -143,23 +197,49 @@
       <workItem from="1570986211426" duration="6000" />
       <workItem from="1571880363041" duration="7237000" />
       <workItem from="1571970298492" duration="3094000" />
+      <workItem from="1666764062363" duration="345000" />
+      <workItem from="1666764414258" duration="7075000" />
+      <workItem from="1668955538470" duration="427000" />
+      <workItem from="1668955973484" duration="19000" />
+      <workItem from="1668956016969" duration="405000" />
+      <workItem from="1668998425561" duration="110000" />
+      <workItem from="1669003020299" duration="2071000" />
+      <workItem from="1669038998766" duration="925000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ez_lettor_engine/test/com/ez/lettor/engine/text/BoxingTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../ez_lettor_engine/test/com/ez/lettor/engine/text/StringTest.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
