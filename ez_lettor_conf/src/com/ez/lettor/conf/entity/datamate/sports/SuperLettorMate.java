@@ -1,10 +1,10 @@
 package com.ez.lettor.conf.entity.datamate.sports;
 
 import com.ez.lettor.conf.entity.datamate.AbstractLettorMate;
-import com.ez.lettor.core.entity.datamate.DataMate;
 import com.ez.lettor.core.entity.type.LettorType;
 
 import java.util.List;
+
 
 /**
  * This class created on 2019-03-04

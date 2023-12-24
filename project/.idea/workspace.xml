@@ -1,26 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="51a94603-0fbc-46b9-b8fc-66739e8ada02" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../ez_lettor_engine/test/com/ez/lettor/engine/text/BoxingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/dao/DataMateDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/dao/DataMateDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/data/SingleDataImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/data/SingleDataImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/AbstractLettorMate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/AbstractLettorMate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/sports/SuperLettorMate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/sports/SuperLettorMate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/welfare/WelfareLettorMate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/datamate/welfare/WelfareLettorMate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/interf/DataMateService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_conf/com/ez/lettor/conf/entity/interf/DataMateService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/data/LettorId.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/data/LettorId.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/data/SingleData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/data/SingleData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/datamate/DataMate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/datamate/DataMate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/type/LettorType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/core/entity/type/LettorType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/exception/LettorException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/exception/LettorException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/exception/data/LettorInvalidateDataException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_core/com/ez/lettor/exception/data/LettorInvalidateDataException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/conf/dao/DataMateDAOImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/conf/dao/DataMateDAOImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/text/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/text/StringTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/text/heapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestDemo/out/production/ez_lettor_engine/com/ez/lettor/engine/text/heapTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ez_lettor_conf/src/com/ez/lettor/conf/entity/data/SingleDataImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ez_lettor_conf/src/com/ez/lettor/conf/entity/data/SingleDataImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ez_lettor_core/src/com/ez/lettor/core/entity/data/SingleData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ez_lettor_core/src/com/ez/lettor/core/entity/data/SingleData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ez_lettor_engine/test/com/ez/lettor/engine/text/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ez_lettor_engine/test/com/ez/lettor/engine/text/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ez_lettor_conf/ez_lettor_conf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ez_lettor_conf/ez_lettor_conf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ez_lettor_conf/src/com/ez/lettor/conf/entity/datamate/sports/SuperLettorMate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ez_lettor_conf/src/com/ez/lettor/conf/entity/datamate/sports/SuperLettorMate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ez_lettor_core/ez_lettor_core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ez_lettor_core/ez_lettor_core.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -72,6 +59,10 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="1RqBRDJLzSQylJaP9TUYQwnqot2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -83,16 +74,32 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/mrwhynot/工作空间/ProjectSpace/project",
-    "project.structure.last.edited": "Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "jprofiler"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "jprofiler",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager" selected="JUnit.StringTest.main">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -156,21 +163,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.StringTest.main" />
-        <item itemvalue="Application.BoxingTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-249ae16d76d6-5b8b42d2" />
+        <option value="jdk-19.0.2-corretto-19.0.2-249ae16d76d6-e8693060" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-69315bf7" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -205,6 +211,9 @@
       <workItem from="1668998425561" duration="110000" />
       <workItem from="1669003020299" duration="2071000" />
       <workItem from="1669038998766" duration="925000" />
+      <workItem from="1686550743447" duration="101000" />
+      <workItem from="1703387241676" duration="30000" />
+      <workItem from="1703387279972" duration="2174000" />
     </task>
     <servers />
   </component>
